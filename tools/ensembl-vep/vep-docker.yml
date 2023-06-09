@@ -1,2 +1,2 @@
  class: DockerRequirement
- dockerPull: quay.io/biocontainers/ensembl-vep:104.3--pl5262h4a94de4_1
+ dockerPull: quay.io/biocontainers/ensembl-vep:109.3--pl5321h2a3209d_1
