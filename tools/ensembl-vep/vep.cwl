@@ -425,7 +425,21 @@ inputs:
     inputBinding:
       position: 5
       prefix: --freq_filter
-
+  sift:
+    type: string?
+    inputBinding:
+      position: 5
+      prefix: --sift
+  polyphen:
+    type: string?
+    inputBinding:
+      position: 5
+      prefix: --polyphen
+  distance:
+    type: string?
+    inputBinding:
+      position: 5
+      prefix: --distance
 
 outputs:
   output:
